@@ -17,7 +17,7 @@ function Header() {
             <div>
               <ul className="d-flex align-items-center my-auto main-menu"> 
                 <li className="mx-2">
-                  <a className="p-3">
+                  <a className="p-3" href="/">
                     <span>HOME</span>
                   </a>
                 </li>

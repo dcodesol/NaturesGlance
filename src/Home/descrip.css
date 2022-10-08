@@ -1,0 +1,20 @@
+.new-pr-90{
+     transform: rotate(-90deg);
+     letter-spacing: 5px;
+     width: 100%;
+     height: 10px;
+}
+
+.content{
+     /* width: 90%; */
+}
+.cntn-txt{
+     width: 50%;
+}
+.img-padd{
+     padding-left: 100px;
+}
+.img-main{
+     position: relative;
+     width: 10%;
+}
